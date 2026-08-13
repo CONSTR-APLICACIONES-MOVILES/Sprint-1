@@ -4,7 +4,7 @@
 
 Welcome to the **Sprint 01** repository of **Group 11**.
 
-During this sprint, our team will focus on the development of the project using **Flutter**. This repository contains all the documentation, source code, reports, and deliverables generated throughout the sprint.
+During this sprint, our team will focus on the development of the project using **Flutter** and **Java**. This repository contains all the documentation, source code, reports, and deliverables generated throughout the sprint.
 
 ## Team Members
 
