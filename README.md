@@ -27,18 +27,15 @@ The Java implementation will be developed by:
 
 To make navigation easier, each folder has a specific purpose:
 
-### 📁 `sprint/`
+### 📁 [Sprint-1](./Sprint-1/)
 
 Contains the main Sprint 01 development.
 
-
-### 📁 `app-report/`
+### 📁 [app-report](./app-report/)
 
 Contains all material related to the App Report.
 
-
-
-### 📁 `micro-sprints/`
+### 📁 [micro-sprints](./micro-sprints/)
 
 Each micro sprint has its own folder where progress, tasks, and corresponding deliverables are documented.
 
