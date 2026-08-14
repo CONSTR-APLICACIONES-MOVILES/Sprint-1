@@ -23,20 +23,35 @@ The Java implementation will be developed by:
 - Alfonso Perez
 
 
-## Repository Guide
+# Repository Guide
 
-To make navigation easier, each folder has a specific purpose:
+The repository is organized to separate implementation, deliverables, and documentation. Each directory serves a specific purpose:
 
 ### 📁 [Sprint-1](./Sprint-1/)
 
-Contains the main Sprint 01 development.
+Contains the main Sprint 01 development, including source code, technical documentation, and Sprint deliverables.
 
 ### 📁 [app-report](./app-report/)
 
-Contains all material related to the App Report.
+Contains all materials related to the App Report, including reports, presentations, and supporting resources.
 
 ### 📁 [micro-sprints](./micro-sprints/)
 
-Each micro sprint has its own folder where progress, tasks, and corresponding deliverables are documented.
+Contains the supporting files for each Micro Sprint, including reports, presentations, and supporting resources.
 
+---
 
+# Project Wiki
+
+The **Wiki** serves as the project's living documentation. The Wiki captures the evolution of the project by documenting research, decisions, progress, and knowledge generated during each Sprint.
+
+The Wiki includes, but is not limited to:
+
+- Sprint and Micro Sprint documentation
+- Research activities and user interviews
+- Problem analysis and design methodologies
+- Technical and architectural decisions
+- Development process and implementation notes
+- Testing results and validations
+- Lessons learned and retrospectives
+- Project references and additional documentation
