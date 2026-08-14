@@ -8,7 +8,7 @@ During this sprint, our team will focus on the development of the project using 
 
 ## Team Members
 
-### Flutter Team (Group 11)
+### Flutter Team 
 
 - Gabriel Polania
 - Gabriel Pinto
