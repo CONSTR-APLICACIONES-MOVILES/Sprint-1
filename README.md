@@ -16,8 +16,6 @@ During this sprint, our team will focus on the development of the project using 
 
 ### Java Team
 
-The Java implementation will be developed by:
-
 - Juan David Guzman
 - Tatiana Perez
 - Alfonso Perez
